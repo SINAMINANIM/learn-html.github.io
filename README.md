@@ -5,3 +5,5 @@ CS10 thingy
 - [x] index html - finished feb 12 2024
 - [ ] boiler plat
 - [ ] mysterious third thing i dont know yet
+
+- [ ] AAAAAAUAYAGGHGHHGHG
