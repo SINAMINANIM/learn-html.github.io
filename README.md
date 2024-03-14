@@ -5,6 +5,7 @@ CS10 thingy
 - [x] index html - finished feb 12 2024
 - [x] boiler plat
 - [x] mysterious third thing i dont know yet (it was html)
-- [ ] template for other things
-- [ ] AAAAAAUAYAGGHGHHGHG
-- [ ] confirm if cereal is a soup
+- [x] template for other things
+- [x] AAAAAAUAYAGGHGHHGHG
+- [x] confirm if cereal is a soup (it is cold soup)
+- [ ] images (confusing)
